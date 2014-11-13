@@ -9,6 +9,6 @@ thumbnail: rimrock-thumbnail.png
 alt: image-alt
 homepage: https://gitlab.dev.cyfronet.pl/plgrid-core-4-1/rimrock
 tryit: https://submit.plgrid.pl
-description: The rimrock_logo.pngRimrock application simplifies interaction with remote servers. It can be used to execute applications either in batch mode or interactively, with application output fetched online and new input provided using a simple RESTful interface. A separate RESTful interface allows users to launch new jobs in the infrastructure. Instead of having to author job description files in JDL (Job Description Language) users can simply pass the names of commands they wish to execute -- our framework does the rest.
+description: The Rimrock application simplifies interaction with remote servers. It can be used to execute applications either in batch mode or interactively, with application output fetched online and new input provided using a simple RESTful interface. A separate RESTful interface allows users to launch new jobs in the infrastructure. Instead of having to author job description files in JDL (Job Description Language) users can simply pass the names of commands they wish to execute -- our framework does the rest.
 
 ---
