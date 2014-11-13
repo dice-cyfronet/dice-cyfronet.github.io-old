@@ -1,0 +1,14 @@
+---
+title: Datanet
+subtitle: Simplify the way how you can interact with the remote servers
+layout: default
+modal-id: 4
+date: 2014-07-14
+img: datanet.png
+thumbnail: datanet-thumbnail.png
+alt: image-alt
+homepage: https://gitlab.dev.cyfronet.pl/datanet/datanet
+tryit: https://datanet.plgrid.pl
+description: DataNet enables lightweight metadata and data management in applications exploiting high-performance computing (HPC) resources. It allows to create ad-hoc data models and deploy them as actionable repositories with easy access restriction configuration and accessibility which is programming language neutral by using REST-like approach for data recording and retrieval. DataNet data models comprise structured data which is typical for SQL database storage scenarios, as well as, files which are well-suited for storing unstructured data. DataNet ensures scalability by using one of the available PaaS platforms combined with storage sites provided by HPC to implement the storage backend.
+
+---
