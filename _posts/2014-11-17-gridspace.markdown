@@ -1,6 +1,6 @@
 ---
 title: GridSpace
-subtitle: Virtual experiments conducting on Grid and HPC infrastructures
+subtitle: Conducting virtual experiments on Grid and HPC infrastructures
 layout: default
 modal-id: 3
 date: 2014-07-14

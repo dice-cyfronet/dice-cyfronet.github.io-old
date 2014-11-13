@@ -1,6 +1,6 @@
 ---
 title: Rimrock
-subtitle: Simplify the way how you can interact with the remote servers
+subtitle: Simplify your interaction with remote servers
 layout: default
 modal-id: 5
 date: 2014-07-14

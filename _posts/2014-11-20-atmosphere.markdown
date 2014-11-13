@@ -1,6 +1,6 @@
 ---
 title: Atmosphere
-subtitle: Hybrid Cloud management platform with autoscalling capability
+subtitle: Hybrid Cloud management platform with autoscaling  capability
 layout: default
 modal-id: 6
 date: 2014-07-15

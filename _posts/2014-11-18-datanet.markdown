@@ -1,6 +1,6 @@
 ---
 title: Datanet
-subtitle: Simplify the way how you can interact with the remote servers
+subtitle: Lightweight metadata and data management
 layout: default
 modal-id: 4
 date: 2014-07-14
