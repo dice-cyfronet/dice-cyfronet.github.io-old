@@ -1,13 +1,14 @@
 ---
 title: PLGData
-subtitle: Web file browser grid infrastructures using Grid-FTP
+subtitle: Web file management for HPC cluster users based on GridFTP
 layout: default
 modal-id: 2
 date: 2014-07-14
 img: plgdata.png
 thumbnail: plgdata-thumbnail.png
 alt: image-alt
-homepage: https://gitlab.dev.cyfronet.pl/t.gubala/plgdata
+manual: https://docs.cyfronet.pl/x/64es
+source: https://gitlab.dev.cyfronet.pl/t.gubala/plgdata
 tryit: https://data.plgrid.pl/?locale=en
 description: Using PLG-Data service you are able to access the folders and files that are available for you you in the PL-Grid Infrastructure. These include both your personal resources and also those shared with you (or the teams you belong to) by collaborators.
 
