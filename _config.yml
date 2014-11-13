@@ -7,6 +7,8 @@ markdown: kramdown
 social:
   - title: github
     url: http://github.com/dice-cyfronet
+  - title: youtube
+    url: https://www.youtube.com/user/dicecyfronetpl
   - title: home
     url: http://dice.cyfronet.pl
 
