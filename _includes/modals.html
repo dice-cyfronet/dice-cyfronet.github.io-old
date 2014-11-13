@@ -17,10 +17,24 @@
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             <p>{{ post.description }}</p>
             <ul class="list-inline item-details">
+              {% if post.homepage %}
+                <li>
+                  <strong><a href="{{ post.homepage }}">Homepage</a>
+                  </strong>
+                </li>
+              {% endif %}
+              {% if post.manual %}
               <li>
-                <strong><a href="{{ post.homepage }}">Homepage</a>
+                <strong><a href="{{ post.manual }}">Manual</a>
                 </strong>
               </li>
+              {% endif %}
+              {% if post.source %}
+              <li>
+                <strong><a href="{{ post.source }}">Source</a>
+                </strong>
+              </li>
+              {% endif %}
               <li>
                 <strong><a href="{{ post.tryit }}">Try it</a>
                 </strong>
