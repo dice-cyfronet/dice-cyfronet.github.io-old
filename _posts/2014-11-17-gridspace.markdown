@@ -9,6 +9,6 @@ thumbnail: gridspace-thumbnail.png
 alt: image-alt
 homepage: https://gitlab.dev.cyfronet.pl/gs/gridspace
 tryit: https://gs2.plgrid.pl
-description: GridSpace is a novel virtual laboratory framework enabling researchers to conduct virtual experiments on Grid-based resources and other HPC infrastructures. It facilitates exploratory development of experiments by means of scripts which can be expressed in a number of popular languages, including Ruby, Python and Perl. The framework supplies a repository of gems enabling scripts to interface low-level resources such as PBS queues, EGEE computing elements, LFC directories and other types of Grid resources. Moreover, GridSpace provides a Web 2.0-based Experiment Workbench supporting joint development and execution of virtual experiments by groups of collaborating scientists.
+description: GridSpace is a novel virtual laboratory framework enabling researchers to conduct virtual experiments on Grid-based resources and other HPC infrastructures. It facilitates exploratory development of experiments by means of scripts which can be expressed in a number of popular languages, including Ruby, Python and Perl. The framework comes with a repository of gems which enable scripts to interface low-level resources such as PBS queues, EGEE computing elements, LFC directories etc. Moreover, GridSpace provides a Web 2.0-based Experiment Workbench supporting joint development and execution of virtual experiments by groups of collaborating scientists.
 
 ---
