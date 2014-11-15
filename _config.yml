@@ -73,12 +73,16 @@ people:
     social:
       - title: home
         url: http://www.cyf-kr.edu.pl/~gebubak/
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=iYmMqQsAAAAJ&hl=en
   - name: Bartosz Baliś
     pic: bb
     position: Researcher
     social:
       - title: github
         url: https://github.com/balis
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=ue9iOgoAAAAJ&hl=en
   - name: Tomasz Bartyński
     pic: tb
     position: Researcher, scientific developer
@@ -91,12 +95,16 @@ people:
     social:
       - title: github
         url: https://github.com/Nuanda
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=cJ8miu8AAAAJ&hl=en
   - name: Daniel Harężlak
     pic: dh
     position: Researcher, scientific developer
     social:
       - title: github
         url: https://github.com/dharezlak
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=B213FAkAAAAJ&hl=en
   - name: Marek Kasztelnik
     pic: mk
     position: Researcher, scientific developer
@@ -107,36 +115,50 @@ people:
         url: https://github.com/mkasztelnik
       - title: stack-overflow
         url: http://stackoverflow.com/users/1535165/marek-kasztelnik
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=BU_T4KMAAAAJ&hl=en
   - name: Maciej Malawski
     pic: mm
     position: Researcher
     social:
+      - title: home
+        url: http://www.icsr.agh.edu.pl/~malawski/
       - title: github
         url: https://github.com/malawski
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=IeeOCucAAAAJ
   - name: Jan Meizner
     pic: jm
     position: System administrator
     social:
       # - title: github
       #   url: https://github.com/malawski
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=kjvAx1UAAAAJ&hl=en
   - name: Piotr Nowakowski
     pic: pn
     position: Researcher, scientific developer
     social:
       - title: github
         url: https://github.com/nowakowski
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=NWqZ5GEAAAAJ&hl=en
   - name: Maciej Pawlik
     pic: mp
     position: Researcher, scientific developer
     social:
       - title: github
         url: https://github.com/mpawlik
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=htkdNokAAAAJ&hl=en
   - name: Katarzyna Rycerz
     pic: kr
     position: Researcher
     social:
       - title: github
         url: https://github.com/kzajac
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=sYvCsdYAAAAJ&hl=en
   - name: Paweł Suder
     pic: ps
     position: System administrator, scientific developer
@@ -151,3 +173,5 @@ people:
     social:
       - title: github
         url: https://github.com/bwilk
+      - title: graduation-cap
+        url: http://scholar.google.com/citations?user=snbDbrQAAAAJ&hl=en
