@@ -6,7 +6,7 @@ modal-id: 4
 date: 2014-07-14
 img: datanet.png
 thumbnail: datanet-thumbnail.png
-alt: image-alt
+alt: Lightweight metadata and data management
 homepage: https://gitlab.dev.cyfronet.pl/datanet/datanet
 tryit: https://datanet.plgrid.pl
 description: DataNet enables lightweight metadata and data management in applications exploiting high-performance computing (HPC) resources. It can be used to create ad-hoc data models and deploy them as actionable repositories with fine-tuned access restrictions, expressed using a programming language-neutral RESTful approach to data storage and retrieval. DataNet models comprise structured data, typical in relational database storage scenarios, as well as files which are well suited for storing unstructured data. DataNet ensures scalability by interfacing with a number of available PaaS platforms, in addition to storage sites provided by HPC infrastructures.

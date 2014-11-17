@@ -6,7 +6,7 @@ modal-id: 2
 date: 2014-07-14
 img: plgdata.png
 thumbnail: plgdata-thumbnail.png
-alt: image-alt
+alt: Web file management for HPC cluster users based on GridFTP
 manual: https://docs.cyfronet.pl/x/64es
 source: https://gitlab.dev.cyfronet.pl/t.gubala/plgdata
 tryit: https://data.plgrid.pl/?locale=en
