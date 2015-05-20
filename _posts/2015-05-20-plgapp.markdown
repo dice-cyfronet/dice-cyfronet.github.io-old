@@ -1,0 +1,15 @@
+---
+title: PLGApp
+subtitle: Scientific application development made easier
+layout: default
+modal-id: 2
+date: 2015-05-20
+img: plgapp.png
+thumbnail: plgapp-thumbnail.png
+alt: Scientific application development made easier
+manual: https://app.plgrid.pl/help
+source: https://github.com/dice-cyfronet/plgapp
+tryit: https://app.plgrid.pl/?locale=en
+description: Platform for hosting lightweight web applications using high performance computing infrastructures.
+
+---
