@@ -40,6 +40,8 @@
   pic: mk
   position: Researcher, scientific developer
   social:
+    - title: home
+      url: http://mkasztelnik.github.io/
     - title: twitter
       url: https://twitter.com/mkasztelnik
     - title: github
