@@ -92,18 +92,6 @@
       url: https://github.com/kzajac
     - title: graduation-cap
       url: http://scholar.google.com/citations?user=sYvCsdYAAAAJ&hl=en
-- name: Paweł Suder
-  pic: ps
-  position: System administrator, scientific developer
-  social:
-    - title: home
-      url: http://pawel.suder.info
-    - title: github
-      url: https://github.com/paoolo
-    - title: twitter
-      url: https://twitter.com/SuderPawel
-    - title: graduation-cap
-      url: http://scholar.google.com/citations?user=YCIBJ9oAAAAJ&hl=en
 - name: Bartosz Wilk
   pic: bw
   position: Researcher, scientific developer

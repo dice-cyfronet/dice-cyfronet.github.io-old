@@ -232,6 +232,23 @@ fieldset[disabled] .btn-xl.active {
     background-color: $secondary;
 }
 
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:hover,
+.nav-pills>li.active>a:focus {
+  background-color: $primary;
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
