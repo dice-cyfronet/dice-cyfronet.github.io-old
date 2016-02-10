@@ -1,7 +1,15 @@
+- name: EurValve
+  interval: 2016-2019
+  pic: eurvalve.png
+  description: The DICE team will be creating an easy-to-use environment for the development, deployment and execution of large scale simulations, required for learning process development and sensitivity analyses (a "Model Execution Environment").
 - name: PLGrid Core
   interval: 2014-2015
   pic: plgrid-core.png
   description: The main objective of the PLGrid Core project is further, significant extension of the PL-Grid Infrastructure computing resources, especially in ACC Cyfronet AGH, as a specialized competence centre in the field of distributed computing infrastructures, with particular emphasis on grid technologies, cloud computing and platforms supporting computations on big data.
+- name: ISMOP
+  interval: 2013-2016
+  pic: ismop.png
+  description: "The ISMOP project intends to carry out research into complex systems for embankment monitoring and threat forecasting, which includes the following aspects: massive and continuous collection of measurement data, optimized data transmission, interpretation and analysis with the use of numerical simulations, providing result visualization for the appropriate authorities."
 - name: PaaSage
   interval: 2012-2016
   pic: paasage.png
