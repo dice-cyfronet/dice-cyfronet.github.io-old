@@ -1,3 +1,9 @@
+- name: Grzegorz Dyk
+  pic: gd
+  position: Researcher, scientific developer
+  social:
+    - title: github
+      url: https://github.com/gregorej
 - name: Paweł Suder
   pic: ps
   position: System administrator, scientific developer
