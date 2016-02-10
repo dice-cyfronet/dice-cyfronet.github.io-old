@@ -1,7 +1,7 @@
 - name: EurValve
   interval: 2016-2019
   pic: eurvalve.png
-  description: DICE team will be creating easy to use environment for the development, deployment and execution of large scale simulations, required for learning process development and for sensitivity analyses (a "Model Execution Environment").
+  description: The DICE team will be creating an easy-to-use environment for the development, deployment and execution of large scale simulations, required for learning process development and sensitivity analyses (a "Model Execution Environment").
 - name: PLGrid Core
   interval: 2014-2015
   pic: plgrid-core.png
@@ -9,7 +9,7 @@
 - name: ISMOP
   interval: 2013-2016
   pic: ismop.png
-  description: "ISMOP project aims at carrying out research into complex system for embankments monitoring and threat forecasting, which includes the following aspects: massive and continuous collection of measurement data, optimized data transmission, interpretation and analysis with the use of numerical simulation, reporting of visualized results to appropriate authorities."
+  description: "The ISMOP project intends to carry out research into complex systems for embankment monitoring and threat forecasting, which includes the following aspects: massive and continuous collection of measurement data, optimized data transmission, interpretation and analysis with the use of numerical simulations, providing result visualization for the appropriate authorities."
 - name: PaaSage
   interval: 2012-2016
   pic: paasage.png
