@@ -1,3 +1,11 @@
+- name: Eryk Ciepiela
+  pic: ec
+  position: Researcher, scientific developer
+  social:
+    - title: github
+      url: https://github.com/erykciepiela
+    - title: graduation-cap
+      url: https://scholar.google.pl/citations?user=yayGYLgAAAAJ&hl=en
 - name: Grzegorz Dyk
   pic: gd
   position: Researcher, scientific developer
