@@ -20,6 +20,16 @@
   social:
     - title: github
       url: https://github.com/djchrap
+- name: Kamil Figiela
+  pic: kf
+  position: Researcher, scientific developer
+  social:
+    - title: home
+      url: http://kfigiela.github.io/
+    - title: github
+      url: https://github.com/kfigiela
+    - title: graduation-cap
+      url: http://scholar.google.com/citations?user=eVYDpTYAAAAJ&hl=en
 - name: Tomasz Gubała
   pic: tg
   position: Researcher, programmer, entrepreneur
