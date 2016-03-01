@@ -19,11 +19,13 @@
   position: Researcher, scientific developer
   social:
     - title: github
-      url: https://github.com/djchrap
+      url: https://github.com/tbartynski
 - name: Tomasz Gubała
   pic: tg
   position: Researcher, programmer, entrepreneur
   social:
+    - title: home
+      url: https://odkrk.hackpad.com/Open-Data-for-Krakw-and-Maopolska-read-first-HFRwMqXsxRk
     - title: github
       url: https://github.com/Nuanda
     - title: graduation-cap
