@@ -1,3 +1,9 @@
+- name: Tomasz Bartyński
+  pic: tb
+  position: Researcher, scientific developer
+  social:
+    - title: github
+      url: https://github.com/tbartynski
 - name: Eryk Ciepiela
   pic: ec
   position: Researcher, scientific developer
