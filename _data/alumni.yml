@@ -1,3 +1,11 @@
+- name: Daniel Harężlak
+  pic: dh
+  position: Researcher, scientific developer
+  social:
+    - title: github
+      url: https://github.com/dharezlak
+    - title: graduation-cap
+      url: http://scholar.google.com/citations?user=B213FAkAAAAJ&hl=en
 - name: Tomasz Bartyński
   pic: tb
   position: Researcher, scientific developer
