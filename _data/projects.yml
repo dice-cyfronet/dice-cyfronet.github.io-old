@@ -1,3 +1,7 @@
+- name: Process
+  interval: 2017-2020
+  pic: process.png
+  description: The main outputs of PROCESS are five very large data service prototypes, implemented using a mature, modular, generalizable open source solution for exascale data. The services will be validated in real-world settings, both in scientific research and in industry pilot deployments.
 - name: Gliomed
   interval: 2017-2020
   pic: gliomed.png
