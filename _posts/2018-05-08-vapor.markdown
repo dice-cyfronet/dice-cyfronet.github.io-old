@@ -1,0 +1,13 @@
+---
+title: Vapor - EurValve portal
+subtitle: EurValve portal for organizing research connected with heart disease
+layout: default
+modal-id: 9
+date: 2018-05-08
+img: vapor.png
+thumbnail: vapor-thumbnail.png
+alt: Automatic pipeline execution for heart simulation and decision making
+tryit: https://valve.cyfronet.pl
+description: Our aim is to provide an organized way of doing research connected with heart diseases. The central point of the system is the pipelining engine, which allows to organize calculations order and the place where inputs and the results are stored.
+
+---
