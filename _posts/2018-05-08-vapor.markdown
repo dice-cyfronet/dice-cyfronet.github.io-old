@@ -1,5 +1,5 @@
 ---
-title: Vapor portal
+title: MEE portal
 subtitle: Environment for organizing in-silico medicine research
 layout: default
 modal-id: 9
