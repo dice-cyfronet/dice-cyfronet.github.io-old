@@ -1,7 +1,15 @@
+- name: PRIMAGE
+  interval: 2018-2022
+  pic: primage.png
+  description: PRIMAGE aims at creation of a Clinical Decision Support System (CDSS) for the treatment of cancer (nauroblastoma, glioma) in children. The system will use the HPC infrastructure and patients' data in the multi-scale computational models of cancer, designed to define disease biomarkers. The created CDSS system will help oncologists both in diagnosis and in predicting of disease progression and treatment effectiveness.
 - name: Process
   interval: 2017-2020
   pic: process.png
   description: The main outputs of PROCESS are five very large data service prototypes, implemented using a mature, modular, generalizable open source solution for exascale data. The services will be validated in real-world settings, both in scientific research and in industry pilot deployments.
+- name: CECM
+  interval: 2017-2018
+  pic: cecm.png
+  description: CECM, an H2020 Teaming for Excellence Phase 1 project, developed a Business Case to establish in Poland Europe's first Centre for simulation-driven healthcare Decision Support. The Centre's mission comprises development of new computation-based solutions for diagnostics and therapy in daily healthcare to improve personalised patient treatment, enhanced growth of regional medtech industry, as well as strong advancement of algorithms, models and technologies involved in personalised medicine.
 - name: Gliomed
   interval: 2017-2020
   pic: gliomed.png
