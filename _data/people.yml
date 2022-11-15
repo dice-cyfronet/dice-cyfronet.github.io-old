@@ -56,6 +56,12 @@
       url: https://github.com/nowakowski
     - title: graduation-cap
       url: http://scholar.google.com/citations?user=NWqZ5GEAAAAJ&hl=en
+- name: Piotr Połeć
+  pic: pp
+  position: Software developer
+  social:
+    - title: github
+      url: https://gitlab.com/piotrpolec
 - name: Piotr Szczepan Wawryka
   pic: psw
   position: Programmer / bomedical engineer
