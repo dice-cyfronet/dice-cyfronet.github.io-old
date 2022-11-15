@@ -6,14 +6,6 @@
       url: http://www.cyf-kr.edu.pl/~gebubak/
     - title: graduation-cap
       url: http://scholar.google.com/citations?user=iYmMqQsAAAAJ&hl=en
-- name: Bartosz Baliś
-  pic: bb
-  position: Researcher
-  social:
-    - title: github
-      url: https://github.com/balis
-    - title: graduation-cap
-      url: http://scholar.google.com/citations?user=ue9iOgoAAAAJ&hl=en
 - name: Tomasz Gubała
   pic: tg
   position: Researcher, programmer, entrepreneur
@@ -64,27 +56,13 @@
       url: https://github.com/nowakowski
     - title: graduation-cap
       url: http://scholar.google.com/citations?user=NWqZ5GEAAAAJ&hl=en
-- name: Maciej Pawlik
-  pic: mp
-  position: Researcher, scientific developer
+- name: Piotr Szczepan Wawryka
+  pic: psw
+  position: Programmer / bomedical engineer
   social:
+    - title: twitter
+      url: https://twitter.com/inf0rmacja
     - title: github
-      url: https://github.com/mpawlik
-    - title: graduation-cap
-      url: http://scholar.google.com/citations?user=htkdNokAAAAJ&hl=en
-- name: Katarzyna Rycerz
-  pic: kr
-  position: Researcher
-  social:
-    - title: github
-      url: https://github.com/kzajac
-    - title: graduation-cap
-      url: http://scholar.google.com/citations?user=sYvCsdYAAAAJ&hl=en
-- name: Bartosz Wilk
-  pic: bw
-  position: Researcher, scientific developer
-  social:
-    - title: github
-      url: https://github.com/bwilk
-    - title: graduation-cap
-      url: http://scholar.google.com/citations?user=snbDbrQAAAAJ&hl=en
+      url: https://github.com/informacja
+    - title: linkedin
+      url: https://pl.linkedin.com/in/piotrwawryka

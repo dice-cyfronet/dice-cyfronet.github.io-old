@@ -38,3 +38,35 @@
       url: https://twitter.com/SuderPawel
 #    - title: graduation-cap
 #      url: http://scholar.google.com/citations?user=YCIBJ9oAAAAJ&hl=en
+- name: Bartosz Baliś
+  pic: bb
+  position: Researcher
+  social:
+    - title: github
+      url: https://github.com/balis
+    - title: graduation-cap
+      url: http://scholar.google.com/citations?user=ue9iOgoAAAAJ&hl=en
+- name: Maciej Pawlik
+  pic: mp
+  position: Researcher, scientific developer
+  social:
+    - title: github
+      url: https://github.com/mpawlik
+    - title: graduation-cap
+      url: http://scholar.google.com/citations?user=htkdNokAAAAJ&hl=en
+- name: Katarzyna Rycerz
+  pic: kr
+  position: Researcher
+  social:
+    - title: github
+      url: https://github.com/kzajac
+    - title: graduation-cap
+      url: http://scholar.google.com/citations?user=sYvCsdYAAAAJ&hl=en
+- name: Bartosz Wilk
+  pic: bw
+  position: Researcher, scientific developer
+  social:
+    - title: github
+      url: https://github.com/bwilk
+    - title: graduation-cap
+      url: http://scholar.google.com/citations?user=snbDbrQAAAAJ&hl=en
