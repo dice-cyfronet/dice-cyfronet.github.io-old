@@ -62,7 +62,7 @@
       url: https://gitlab.com/piotrpolec
 - name: Piotr Szczepan Wawryka
   pic: psw
-  position: Programmer / bomedical engineer
+  position: Programmer, biomedical engineer
   social:
     - title: twitter
       url: https://twitter.com/inf0rmacja
@@ -70,3 +70,9 @@
       url: https://github.com/informacja
     - title: linkedin
       url: https://pl.linkedin.com/in/piotrwawryka
+- name: Kamil Burkiewicz
+  pic: kb
+  position: Software developer
+  social:
+    - title: github
+      url: https://github.com/Kamilbur
