@@ -70,3 +70,19 @@
       url: https://github.com/bwilk
     - title: graduation-cap
       url: http://scholar.google.com/citations?user=snbDbrQAAAAJ&hl=en
+- name: Piotr Szczepan Wawryka
+  pic: psw
+  position: Programmer, biomedical engineer
+  social:
+    - title: twitter
+      url: https://twitter.com/inf0rmacja
+    - title: github
+      url: https://github.com/informacja
+    - title: linkedin
+      url: https://pl.linkedin.com/in/piotrwawryka
+- name: Kamil Burkiewicz
+  pic: kb
+  position: Software developer
+  social:
+    - title: github
+      url: https://github.com/Kamilbur
